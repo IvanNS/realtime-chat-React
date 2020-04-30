@@ -10,7 +10,7 @@
     "events": "^3.0.0",
     "express": "^4.16.3",
     "history": "^4.7.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "nodemon": "^1.18.3",
     "popper": "^1.0.1",
     "popper.js": "^1.14.3",
